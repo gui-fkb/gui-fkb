@@ -1,19 +1,14 @@
-### Hi there 👋
+<h2 align="center">About Me </h2>
 
-<!--
-**xBadApple/xBadApple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
 
-Here are some ideas to get you started:
+package xBadApple
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func getAttributes() (Contact, Life, Coding) {
+	contact := Contact{
+		Email:   "nemseiderfel@gmail.com",
+		Discord: "_guirerume",
+	}
 
 	life := Life{
 		Name:    "guilherme",
