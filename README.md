@@ -2,7 +2,7 @@
 
 ```go
 
-package xBadApple
+package guilherme-fkb
 
 func getAttributes() (Contact, Life, Coding) {
 	contact := Contact{
