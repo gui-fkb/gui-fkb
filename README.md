@@ -6,7 +6,7 @@ package gui-fkb
 
 func getAttributes() (Contact, Life, Coding) {
 	contact := Contact{
-		Email:   "nemseiderfel@gmail.com",
+		Email:   "guirerume@proton.me",
 		Discord: "_guirerume",
 	}
 
