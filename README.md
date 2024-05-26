@@ -2,7 +2,7 @@
 
 ```go
 
-package guilherme-fkb
+package gui-fkb
 
 func getAttributes() (Contact, Life, Coding) {
 	contact := Contact{
