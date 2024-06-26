@@ -38,7 +38,7 @@ func getAttributes() (Contact, Life, Coding) {
 
 <div align="center">
   <a href="https://skillicons.dev" style="display: inline-block; margin-right: 20px;">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,c,cpp,cs,go,docker,js,ts,py,nodejs,lua" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,c,cpp,cs,docker,go,js,ts,py,nodejs,lua" />
   </a>
   <a href="https://skillicons.dev" style="display: inline-block;">
     <img src="https://skillicons.dev/icons?i=unity,mysql,sqlite,html,css,sass,vscode,visualstudio,eclipse" />
