@@ -52,5 +52,5 @@ func getAttributes() (Contact, Life, Coding) {
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=xBadApple&color=7aa2f7&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=xBadApple&color=7aa2f7&abbreviated=false)
 
