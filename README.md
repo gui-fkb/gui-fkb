@@ -20,11 +20,11 @@ func getAttributes() (Contact, Life, Coding) {
 
 	coding := Coding{
 		Langs: map[string][]string{
-			"expert":       {"c#/.net", "typescript/angular"},
-			"intermediate": {"go", "javascript/nodejs"},
+			"core":       {"go", "c#/.net", "typescript/angular"},
+			"intermediate": {"javascript/nodejs"},
 			"hasExperience": {"c++", "java", "python", "lua"},
 		},
-		Databases:    []string{"sql server", "mysql", "sqlite"},
+		Databases:    []string{"postgres", "sql server", "mysql", "sqlite"},
 		Specialities: []string{"fullstack", "bots", "apis", "web/app reverse engineering"},
 		Ide:          []string{"vscode", "visual studio"},
 		Outro:        []string{"unity", "codewars", "project euler", "hxd", "fiddler"},
