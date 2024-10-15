@@ -15,7 +15,7 @@ func getAttributes() (Contact, Life, Coding) {
 		Alias:   "gui",
 		Langs:   []string{"english", "portuguese"},
 		Country: "br",
-		Age:     23,
+		Age:     24,
 	}
 
 	coding := Coding{
