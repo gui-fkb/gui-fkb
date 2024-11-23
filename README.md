@@ -24,7 +24,7 @@ func getAttributes() (Contact, Life, Coding) {
 			"hasExperience": {"c++", "java", "python", "lua"},
 		},
 		Databases:    []string{"postgres", "sql server", "mysql", "sqlite"},
-		Specialities: []string{"fullstack", "bots", "apis", "web/app reverse engineering"},
+		Specialities: []string{"fullstack", "bots/automations", "apis", "web/app reverse engineering"},
 		Ide:          []string{"vscode", "visual studio"},
 		Outro:        []string{"unity", "codewars", "project euler", "hxd", "docker", "x64dbg", "fiddler"},
 	}
