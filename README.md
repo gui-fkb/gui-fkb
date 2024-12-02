@@ -40,16 +40,15 @@ func getAttributes() (Contact, Life, Coding) {
     <img src="https://skillicons.dev/icons?i=dotnet,angular,c,cpp,cs,docker,go,js,ts,py,nodejs,lua" />
   </a>
   <a href="https://skillicons.dev" style="display: inline-block;">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gui-fkb&theme=tokyonight" alt="Gui" />
+    <img src="https://skillicons.dev/icons?i=unity,mysql,sqlite,html,css,sass,vscode,visualstudio,eclipse" />
   </a>
 </div>
 
 <p></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gui-fkb" alt="Gui" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gui-fkb&theme=tokyonight" alt="Gui" />
 </p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xBadApple&color=7aa2f7)
-
