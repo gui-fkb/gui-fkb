@@ -40,7 +40,7 @@ func getAttributes() (Contact, Life, Coding) {
     <img src="https://skillicons.dev/icons?i=dotnet,angular,c,cpp,cs,docker,go,js,ts,py,nodejs,lua" />
   </a>
   <a href="https://skillicons.dev" style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=unity,mysql,sqlite,html,css,sass,vscode,visualstudio,eclipse" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gui-fkb&theme=tokyonight" alt="Gui" />
   </a>
 </div>
 
