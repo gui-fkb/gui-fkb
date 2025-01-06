@@ -26,7 +26,7 @@ func getAttributes() (Contact, Life, Coding) {
 		Databases:    []string{"postgres", "sql server", "mysql", "sqlite"},
 		Specialities: []string{"fullstack", "bots/automations", "apis", "web/app reverse engineering"},
 		Ide:          []string{"vscode", "visual studio"},
-		Outro:        []string{"unity", "codewars", "project euler", "hxd", "docker", "x64dbg", "fiddler"},
+		Outro:        []string{"hxd", "docker", "aws", "x64dbg", "fiddler"},
 	}
 
 	return contact, life, coding
